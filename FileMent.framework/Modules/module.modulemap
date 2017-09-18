@@ -1,0 +1,6 @@
+framework module FileMent {
+  umbrella header "FileMent.h"
+
+  export *
+  module * { export * }
+}
